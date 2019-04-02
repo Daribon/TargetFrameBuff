@@ -1,0 +1,8 @@
+## Interface: 1700
+## Title: TargetFrameBuff v0.5
+## Notes: Shows up to 16 Buffs & Debuffs on a Target
+## Author: lua@lumpn.de
+## SavedVariables:
+## OptionalDeps: 
+## Dependencies: 
+TargetFrameBuff.xml
